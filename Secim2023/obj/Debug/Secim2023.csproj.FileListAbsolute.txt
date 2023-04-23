@@ -1,0 +1,16 @@
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Secilen_Projeler\Secim2023\obj\Debug\Secim2023.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Secilen_Projeler\Secim2023\obj\Debug\Secim2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Secilen_Projeler\Secim2023\obj\Debug\Secim2023.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Secilen_Projeler\Secim2023\bin\Debug\Secim2023.exe.config
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Secilen_Projeler\Secim2023\bin\Debug\Secim2023.exe
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Secilen_Projeler\Secim2023\bin\Debug\Secim2023.pdb
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Secilen_Projeler\Secim2023\obj\Debug\Secim2023.exe
+C:\Users\DellPc\Desktop\kadıköy Erp form ve console\seçilen projeler\Secilen_Projeler\Secim2023\obj\Debug\Secim2023.pdb
+C:\Users\DellPc\Desktop\Secim2023\bin\Debug\Secim2023.exe.config
+C:\Users\DellPc\Desktop\Secim2023\bin\Debug\Secim2023.exe
+C:\Users\DellPc\Desktop\Secim2023\bin\Debug\Secim2023.pdb
+C:\Users\DellPc\Desktop\Secim2023\obj\Debug\Secim2023.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\Secim2023\obj\Debug\Secim2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\Secim2023\obj\Debug\Secim2023.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\Secim2023\obj\Debug\Secim2023.exe
+C:\Users\DellPc\Desktop\Secim2023\obj\Debug\Secim2023.pdb
